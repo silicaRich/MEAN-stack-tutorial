@@ -1,0 +1,23 @@
+{
+  "name": "MultiVision",
+  "version": "0.0.0",
+  "description": "Tech Training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/silicaRich/MEAN-stack-tutorial.git"
+  },
+  "author": "Nicole Flokos",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/silicaRich/MEAN-stack-tutorial/issues"
+  },
+  "homepage": "https://github.com/silicaRich/MEAN-stack-tutorial",
+  "dependencies": {
+    "express": "^4.12.3",
+    "jade": "^1.9.2"
+  }
+}
